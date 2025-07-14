@@ -1,6 +1,7 @@
 quiz =int(input("quiz note"))
 midtern = int(input("midterm note"))
 final =int(input("final note"))
+branch = True
 
 
 def calculateAverage(quiz,midtern,final):
